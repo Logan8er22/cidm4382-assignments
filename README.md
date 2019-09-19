@@ -1,14 +1,13 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Pizza Location App
 
+This application is a modification of Simon Holmes' loc8er application. It uses
+techniques and some code from loc8er to create an app that shows the user 
+pizza locations in Canyon as well as reviews for each location.
 
-Hi there! Welcome to AWS Cloud9!
+This app is made possible through using:
+* Node and NPM
+* Express
+* Jade
+* MVC Templates
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+Simon Holmes' [Github](https://github.com/simonholmes/getting-MEAN-2)
